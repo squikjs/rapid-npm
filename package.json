@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "child_process": "^1.0.2",
+    "libnpmsearch": "^3.1.0"
+  },
+  "name": "rapid-npm",
+  "description": "Installs npm packages like lightning!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squikjs/rapid-npm.git"
+  },
+  "bin": {
+    "rapid-install": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squikjs/rapid-npm/issues"
+  },
+  "homepage": "https://github.com/squikjs/rapid-npm#readme"
+}
