@@ -23,7 +23,3 @@ rapid-install [package_name]
 - Faster install than npm, but uses npm to install.
 - It searches for packages, so even if you get a typo it will handle it!
 - Leaves the **console** clean!
-
-## Sample
-
-![](./picture.png)
